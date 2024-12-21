@@ -1,4 +1,5 @@
 name: Send pending review notifications to reviewer on github-discussion
+permissions: read-all
 on:
   schedule:
     # Every Tuesday and Thursday at 16:00 UTC.
