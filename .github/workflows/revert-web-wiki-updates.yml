@@ -1,8 +1,5 @@
 name: Revert Wiki Changes Made Through the Web Interface
 
-permissions:
-  contents: write
-
 
 on:
   gollum:
