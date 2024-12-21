@@ -1,11 +1,6 @@
 name: Lint checks
 
-permissions:
-  contents: write
-  pull-requests: read
-  actions: read
-  issues: read
-  checks: write
+permissions: read-all
 
 on:
   merge_group:
