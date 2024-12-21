@@ -1,6 +1,4 @@
 name: Send pending review notifications to reviewer on github-discussion
-permissions:
-  contents: write
 
 on:
   schedule:
